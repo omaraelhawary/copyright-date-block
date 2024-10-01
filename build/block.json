@@ -18,6 +18,16 @@
     },
     "html": false
   },
+  "attributes": {
+    "date": {
+      "type": "string",
+      "default": 2024
+    },
+    "showStratingYear": {
+      "type": "boolean",
+      "default": true
+    }
+  },
   "textdomain": "copyright-date-block",
   "editorScript": "file:./index.js",
   "editorStyle": "file:./index.css",
